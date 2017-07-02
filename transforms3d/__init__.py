@@ -8,6 +8,7 @@ Additional code monkey work by Matthew Brett
 from . import taitbryan
 from . import affines
 from . import quaternions
+from . import quaternions_vectorized
 from . import euler
 from . import axangles
 from . import reflections
